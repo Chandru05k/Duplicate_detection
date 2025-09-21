@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+torch
+transformers
+Pillow
+supabase
+numpy
+python-dotenv
